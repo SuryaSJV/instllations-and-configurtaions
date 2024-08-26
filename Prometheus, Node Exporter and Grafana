@@ -1,4 +1,27 @@
 How to setup Prometheus, Node Exporter and Grafana  ->   [ https://jhooq.com/prometheous-grafan-setup/ ]
+         --This is going to be a very beginners guide where we will start from 
+                             Installation of Prometheus
+                             How to create and Install Node exporter
+                             Installing the Grafana
+                             Setting up the Grafana Dashboard
+                             Setting up Prometheus and Grafana for Kubernetes on AWS (Advance Use-Case)
+                             Advantages of Prometheus
+                             Advantages of Grafana
+
+
+
 How to setup Prometheus, Grafana dashboard for Kubernetes monitoring on AWS  ->    [https://jhooq.com/prometheous-k8s-aws-setup/]  
+         --this includes Install AWS CLI and eksctl
+                             Setup AWS Credentials
+                             Install kubectl
+                             Install Helm chart
+                             Create Kubernetes cluster in AWS using eksctl
+                             Install Kubernetes Metrics Server
+                             Install Prometheus
+                             Install grafana
+                             Import Grafana dashboard from Grafana Labs
+                             Deploy a spring boot microservice and monitor it on Grafana
+
+
 
    
